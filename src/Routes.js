@@ -6,7 +6,7 @@ import DetailPage from './pages/detail';
 
 import HomePage from './pages/home';
 
-export default class App extends Component {
+export default class Routes extends Component {
   render() {
     // return <HomePage />;
     return (
